@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Enterprise Linux System Administrator with 2+ years of hands-on experience at Wipro Technologies, supporting production Linux environments and Dell EMC data protection platforms.
+Enterprise Linux System Administrator with 2+ years of hands-on experience at Wipro Technologies, supporting production Linux environments and Dell EMC data protection platforms.
 
 Experienced in system administration, upgrades, troubleshooting, and maintaining high availability in enterprise infrastructure.
 
