@@ -14,29 +14,11 @@ Enterprise Linux operations across Production, DC & DR environments with exposur
  
 ## Technical Stack
  
-### Systems
-- Linux  
-- Process & service management  
-- Log analysis  
-- Performance monitoring  
- 
-### Virtualization & Hardware
-- VMware vSphere (vCenter / ESXi)  
-- Dell iDRAC  
- 
-### Backup & Storage
-- IDPA  
-- Avamar  
-- Data Domain  
-- Replication workflows  
- 
-### Automation
-- Bash / Shell scripting  
-- Python (basic automation)  
-- Ansible (lab practice)  
- 
-### Cloud
-- AWS fundamentals (EC2, networking basics, security groups)
+**Systems:** Linux, service management, log analysis, performance monitoring  
+**Virtualization:** VMware vSphere (vCenter/ESXi), Dell iDRAC  
+**Backup & Storage:** IDPA, Avamar, Data Domain, replication workflows  
+**Automation:** Bash, Python (basic), Ansible (lab)  
+**Cloud:** AWS fundamentals (EC2, networking, security groups)
  
 ---
  
