@@ -1,4 +1,4 @@
-# Aman Kumar
+# About
  
 Linux Administrator with enterprise infrastructure experience in DC/DR environments and upgrade operations.
  
