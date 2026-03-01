@@ -1,18 +1,23 @@
-Linux Administrator with enterprise infrastructure experience in DC/DR environments and upgrade operations.
+# Linux Administrator | Enterprise Infrastructure | Automation-Focused
  
-## Core Areas
-- Linux system administration
-- Infrastructure validation & troubleshooting
-- Backup & replication environments
-- VMware-based infrastructure
+---
  
-## Currently Building Skills In
-- Shell scripting automation
-- Ansible configuration management
-- AWS infrastructure fundamentals
+## Focus Areas
+- Linux system operations & troubleshooting
+- DC/DR infrastructure environments
+- Upgrade lifecycle & system validation
+- Backup & replication platforms
+- Shell-based automation
  
-## Featured Projects
-- Linux Health Monitoring Script
-- Infrastructure Pre-Upgrade Validation Toolkit
-- Ansible Linux Provisioning
-- AWS EC2 Setup & Hardening
+---
+ 
+## Working With
+Linux • VMware • IDRAC  
+IDPA • Avamar • Data Domain  
+Bash • Python (basic) • Ansible (learning)  
+AWS fundamentals
+ 
+---
+ 
+## Current Direction
+Building automation-driven infrastructure skills aligned with cloud environments.
