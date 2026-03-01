@@ -1,4 +1,4 @@
-## Linux Administrator | Enterprise Infrastructure | Automation & Cloud Oriented
+# Linux Administrator | Enterprise Infrastructure | Automation & Cloud Oriented
  
 Enterprise Linux operations across Production, DC & DR environments with exposure to upgrade lifecycle management, system validation, replication monitoring, and infrastructure troubleshooting.
  
