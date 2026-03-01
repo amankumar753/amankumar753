@@ -14,8 +14,7 @@ Enterprise Linux operations across Production, DC & DR environments with exposur
  
 ## Technical Stack
  
-**Systems**:
-
+**Systems**
 Linux • Process & service management • Log analysis • Performance monitoring  
  
 **Virtualization & Hardware**:
