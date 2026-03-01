@@ -1,4 +1,4 @@
-# Linux Administrator | Enterprise Infrastructure | Automation-Oriented
+# Linux Administrator | Enterprise Infrastructure | Automation & Cloud Oriented
  
 Enterprise Linux operations across Production, DC & DR environments with exposure to upgrade lifecycle management, system validation, replication monitoring, and infrastructure troubleshooting.
  
@@ -14,19 +14,19 @@ Enterprise Linux operations across Production, DC & DR environments with exposur
  
 ## Technical Stack
  
-**Systems**
+**Systems**:
 Linux • Process & service management • Log analysis • Performance monitoring  
  
-**Virtualization & Hardware**
+**Virtualization & Hardware**:
 VMware vSphere (vCenter / ESXi) • Dell iDRAC  
  
-**Backup & Storage Platforms**
+**Backup & Storage Platforms**:
 IDPA • Avamar • Data Domain • Replication workflows  
  
-**Automation**
+**Automation**:
 Bash / Shell scripting • Python (basic automation) • Ansible (lab practice)  
  
-**Cloud Exposure**
+**Cloud Exposure**:
 AWS fundamentals (EC2, networking basics, security groups)
  
 ---
